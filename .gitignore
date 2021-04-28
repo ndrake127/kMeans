@@ -34,3 +34,6 @@
 # Images
 *.png
 *.jpg
+
+# Personal Settings
+.vscode
