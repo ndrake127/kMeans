@@ -4,6 +4,6 @@ I use k means clustering algorithm on images to determine a representative color
 
 To Do:
 
-Check convergence status each iteration
-Choose better initial centroids
-Make it faster
+* Check convergence status each iteration
+* Choose better initial centroids
+* Make it faster
